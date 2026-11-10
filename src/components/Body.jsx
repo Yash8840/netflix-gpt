@@ -4,6 +4,7 @@ import Browse from "./Browse";
 import LoginPage from "./LoginPage";
 
 const Body = () => {
+
   return (
     <div>
       <RouterProvider
